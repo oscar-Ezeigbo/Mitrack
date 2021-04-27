@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mitrack</string>
+    <string name="radio_low" />
+    <string name="radio_med" />
+    <string name="radio_high" />
+    <string name="due_date_text" />
+    <string name="today" />
+    <string name="next_week" />
+    <string name="enter_todo_hint" />
+    <string name="image_description" />
+    <string name="tomorrow" />
+    <string name="about_text" />
+    <string name="action_settings" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
