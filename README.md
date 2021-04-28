@@ -19,3 +19,8 @@ The task should then be registered and viewable
 # Usage 
 Being a simple tracking app it allows the user to set a task and a date for completion.
 it allows the user to select that the task is complete when its done. 
+
+# Acknowledgement
+All the folks who answer questions at stackoverflow.com
+
+https://github.com/opencodeiiita/ToDo-List-App
