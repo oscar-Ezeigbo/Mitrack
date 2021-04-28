@@ -5,6 +5,7 @@ Mitrack as it is right now is the result of an attept to create a unique habit t
 # Installation instructions
 
 This requires an android emulator of some sort, i recommend Noxplayer
+
 1.) download app-debug.apk
 
 2.) open wherever download folder resides 
@@ -14,3 +15,7 @@ it should automatically open the emulator with Mitrack installed
 # Operating manual
 Tnteracting the "+" button ath the bottom of the page should inflate the bottom fragment and allow you to write a task and set an end date 
 The task should then be registered and viewable
+
+# Usage 
+Being a simple tracking app it allows the user to set a task and a date for completion.
+it allows the user to select that the task is complete when its done. 
