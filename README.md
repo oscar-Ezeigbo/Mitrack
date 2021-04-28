@@ -23,4 +23,4 @@ it allows the user to select that the task is complete when its done.
 # Acknowledgement
 All the folks who answer questions at stackoverflow.com
 
-https://github.com/opencodeiiita/ToDo-List-App
+https://github.com/opencodeiiita/ToDo-List-App code helped provide a blueprint to work from initially 
