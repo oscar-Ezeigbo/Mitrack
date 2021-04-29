@@ -12,8 +12,8 @@ This requires an android emulator of some sort, i recommend Noxplayer
 it should automatically open the emulator with Mitrack installed
 ![image](https://user-images.githubusercontent.com/61979201/116330162-27345a80-a78a-11eb-8858-21623eacd8d2.png)
 
-# Operating manual
-Tnteracting the "+" button ath the bottom of the page should inflate the bottom fragment and allow you to write a task and set an end date 
+# How it works
+Tnteracting the "+" button ath the bottom of the page should inflate the bottom fragment and allow you to write a task and set an end date. These are then stored in the to-do fragment that holds the task instances.  
 The task should then be registered and viewable
 
 # Usage 
